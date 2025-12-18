@@ -1,6 +1,8 @@
 
 import { Question, QuestionType } from './types';
 
+export const OVERVIEW_IMAGE_PATH = 'overview.png';
+
 export const QUESTIONS: Question[] = [
   {
     id: 1,
